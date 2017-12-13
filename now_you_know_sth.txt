@@ -1,0 +1,4 @@
+now you know the process : 
+	1. get a local repository first 
+	2. create a repository on github 
+	3. make a connection between them"
